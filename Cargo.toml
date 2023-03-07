@@ -1,0 +1,11 @@
+[workspace]
+
+members = [
+    "infrastructure",
+    "linear_gkr",
+    "linear_code",
+    "intrinsics",
+    "poly_commitment",
+    "prime_field",
+    "vpd"
+]

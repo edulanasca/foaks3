@@ -1,0 +1,11 @@
+[package]
+name = "vpd"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+infrastructure = { path = "../infrastructure" }
+prime_field = { path = "../prime_field" }
+poly_commitment = { path = "../poly_commitment" }
